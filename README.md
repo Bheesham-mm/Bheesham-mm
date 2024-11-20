@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bheesham-mm! 👋
 
-<!--
-**Bheesham-mm/Bheesham-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 Currently working on: [Youmaster_Combat](https://github.com/your-repo-link)
+- 🌱 Learning: React.js, Firebase, and ES7
+- 💻 Skills: HTML, CSS, JavaScript, React.js, Node.js
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile)
 
-Here are some ideas to get you started:
+## 🛠️ Tools and Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Bheesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bheesham-mm&show_icons=true&theme=radical)
