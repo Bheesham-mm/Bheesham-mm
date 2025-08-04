@@ -4,7 +4,7 @@
 
 > 📈 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Bheesham-mm&color=blue&style=flat)
 
-🔗 [LinkedIn: Bheesham Mahesh Maharaj](https://pk.linkedin.com/in/bheesham-mahesh-maharaj-95ab5a343)
+🔗 [LinkedIn: Bheesham Mahesh Maharaj](https://pk.linkedin.com/in/bheesham057)
 
 ---
 
